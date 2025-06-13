@@ -4,12 +4,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-🚧 _Coming Soon_ — Add your deployment link here once hosted.
-
----
-
 ## 🧰 Tech Stack
 
 - **Frontend**: HTML, CSS  
